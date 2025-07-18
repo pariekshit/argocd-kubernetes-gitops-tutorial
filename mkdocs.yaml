@@ -1,0 +1,10 @@
+site_name: test
+repo_url: https://github.com/pariekshit/argocd-kubernetes-gitops-tutorial
+site_description: A test site
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview:
+      - Getting Started: index.md
