@@ -7,4 +7,4 @@ plugins:
 
 nav:
   - Overview:
-      - Getting Started: index.md
+      - Getting Started: docs/README.md
