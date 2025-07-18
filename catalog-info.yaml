@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: argocd-kubernetes-gitops-tutorial
+  description: An example component for demonstration purposes.
+  annotations:
+    github.com/project-slug: pariekshit/argocd-kubernetes-gitops-tutorial
+
+spec:
+    type: service
+    lifecycle: experimental
+    owner: pariekshit
